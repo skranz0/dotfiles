@@ -1,3 +1,5 @@
 alias ls="eza -lh --git --icons=auto"
 alias conda="mamba"
 alias gc="git commit -m"
+alias login-watson="ssh anfny@watson.uni-halle.de"
+alias vim="nvim"
