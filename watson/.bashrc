@@ -118,3 +118,6 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+# Mamba initialization
+source /software/META/mamba_activate/activate_group_mamba.sh
