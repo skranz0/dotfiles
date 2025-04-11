@@ -6,4 +6,4 @@ In most cases, copying the desired file in the `home` directory and restarting y
 
 ## TMUX Plugins
 
-To use tmux with plugins, you need to install TPM as per https://github.com/tmux-plugins/tpm?tab=readme-ov-file#installation
+To use tmux with plugins, you need to install the [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
